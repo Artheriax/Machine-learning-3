@@ -1,11 +1,13 @@
 # Vastgezette versies: dit zijn de pakketversies waarmee de resultaten in
-# Merged/Main.ipynb (train.csv, test.csv en submissions/) zijn behaald.
+# Merged/Main.ipynb (train.csv, test.csv en submissions/) zijn behaald en
+# waarmee Portfolio Opdracht 2 (Persoon A-Portfolio-opdracht-2.ipynb) is uitgevoerd.
 # Installeer met: pip install -r requirements.txt
 pandas==3.0.6
 numpy==2.5.3
 matplotlib==3.11.2
 seaborn==0.13.2
 scikit-learn==1.9.1
+statsmodels==0.15.0
 xgboost==3.4.1
 imbalanced-learn==0.14.2
 optuna==5.0.0
